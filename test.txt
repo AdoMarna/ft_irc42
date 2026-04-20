@@ -1,0 +1,5 @@
+The port is : 6667
+The password is : 0000
+Waiting...
+SIGINT received
+An error occured with select function
